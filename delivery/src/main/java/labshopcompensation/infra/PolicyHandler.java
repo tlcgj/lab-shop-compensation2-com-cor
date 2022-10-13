@@ -50,6 +50,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
+        Delivery.removeDelivery(event);
+        
 
         
 
